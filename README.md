@@ -29,9 +29,9 @@ There are no duplicate records in the proposed test sets; therefore, the perform
 
 >* #### **Hybrid Methodology**
 The idea of hybrid methodologies that includes combination of models. Hybrid models with a combinational set of supervised classifiers are used to get a result of the best type.The attack types of the NSL-KDD dataset are clustered into four different attack classes:
-* DoS (Denial of Service): DoS include attacks that cause the slowing or shutting down of a machine by sending more traffic information to the server than the system is able to handle. DoS attacks affect legitimate network traffic or access to services.
-* R2L (Root to Local): R2L include attacks which provide illegal local access to a machine by sending remote deceiving packets to the system.
-* U2R (User to Root): U2R includes attacks which provide root access. In this case, the hacker finds out the system vulnerability and starts using the system as a normal user.
-* Probe (Probing): Probe includes attacks able to avoid the security control systems by gathering information about the network.
+* **DoS (Denial of Service):** DoS include attacks that cause the slowing or shutting down of a machine by sending more traffic information to the server than the system is able to handle. DoS attacks affect legitimate network traffic or access to services.
+* **R2L (Root to Local):** R2L include attacks which provide illegal local access to a machine by sending remote deceiving packets to the system.
+* **U2R (User to Root):** U2R includes attacks which provide root access. In this case, the hacker finds out the system vulnerability and starts using the system as a normal user.
+* **Probe (Probing):** Probe includes attacks able to avoid the security control systems by gathering information about the network.
 
 
